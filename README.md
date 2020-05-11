@@ -33,3 +33,5 @@
       import './bootstrap.min.css';
     ```
   - Adicionar o pacote de ícones: `yarn add react-icons`
+  - Adicionar o plugin:
+    > - `yarn add gatsby-background-image`
